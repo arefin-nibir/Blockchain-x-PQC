@@ -1,0 +1,18 @@
+cffi==2.1.1
+contourpy==1.4.0
+cryptography==50.0.2
+cycler==0.12.1
+ecdsa==0.19.2
+fonttools==4.68.0
+kiwisolver==1.5.1
+liboqs-python @ git+https://github.com/open-quantum-safe/liboqs-python@7bda58456fc155ab5b7a1dc62d204035345de9ba
+matplotlib==3.11.2
+numpy==2.5.4
+packaging==26.3
+pandas==3.1.1
+pillow==13.0.0
+pycparser==3.12
+pyparsing==3.3.3
+python-dateutil==4.0.0
+six==1.17.0
+tzdata==2026.6

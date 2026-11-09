@@ -14,9 +14,9 @@ BASE_TRANSACTION_SIZE = 250    # bytes
 data = {
     "Algorithm": [
         "ECDSA",
-        "Dilithium2",
+        "ML-DSA-44",
         "Falcon-512",
-        "SPHINCS+"
+        "SLH-DSA-128f (SPHINCS+)"
     ],
 
     "Signature_Size": [

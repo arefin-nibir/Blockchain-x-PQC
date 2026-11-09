@@ -107,11 +107,11 @@ def benchmark_pqc_algorithm(alg_name):
 # Run PQC Benchmarks
 # ==========================================
 
-benchmark_pqc_algorithm("Dilithium2")
+benchmark_pqc_algorithm("ML-DSA-44")
 
 benchmark_pqc_algorithm("Falcon-512")
 
-benchmark_pqc_algorithm("SPHINCS+-SHA2-128f-simple")
+benchmark_pqc_algorithm("SLH_DSA_PURE_SHA2_128F")
 
 # ==========================================
 # Save Results

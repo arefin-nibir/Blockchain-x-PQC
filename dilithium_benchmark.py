@@ -4,7 +4,7 @@ import time
 message = b"Post Quantum Blockchain Research"
 
 # Select Dilithium algorithm
-alg_name = "Dilithium2"
+alg_name = "ML-DSA-44"
 
 # Key generation benchmark
 start = time.perf_counter()
